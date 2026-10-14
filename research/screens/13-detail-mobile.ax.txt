@@ -1,0 +1,266 @@
+- document:
+  - banner:
+    - navigation "Navigation Bar":
+      - button "Menu"
+      - link "Home":
+        - /url: /storefront
+      - button "Search Prime Video"
+      - button "EN"
+      - button "Profile, Settings, and Account"
+  - main:
+    - img "Dupahiya"
+    - link "prime video":
+      - /url: /storefront/subscription/prime?ref_=atv_dp_ch_lo_atf
+      - img "prime video"
+    - heading "Dupahiya" [level=1]
+    - link "Watch trailer":
+      - /url: /detail/0HQTQFVS69GPL98D62W0Y8N46R?autoplay=trailer&ref_=atv_dp_atf_free_tv_play_t1QCAAAAAA0wg0
+    - button "Add to Watchlist"
+    - button "Like":
+      - img
+    - button "Not for me":
+      - img
+    - button "Share"
+    - button "Watch now"
+    - link "Join Prime":
+      - /url: /auth-redirect?signin=1&returnUrl=%2Foffers%3Fforce_return_url%3D1%26cGTI%3Damzn1.dv.gti.a03b7217-6a5e-48b2-941d-c566686f96bf%26return_url%3D%252Fdetail%252F0ON3Z0ITZ6ND6TVYV535NH0533%253Fref_%253Datv_dp_sign_suc%26ref_%3Datv_dp_atf_tv_signup_prime_bb_t1QCAAAAAA0wg0&ref_=atv_dp_atf_tv_signup_prime_bb_t1QCAAAAAA0wg0
+      - text: Subscribe
+    - text: First episode free
+    - paragraph: Terms apply
+    - img "NEW SEASON"
+    - text: "#4 in India Dhadakpur is back! Banwari's barren land is chosen for a mobile tower-but villagers link everything from typhoid to tsunamis to it. Bhugol is famous now, but only as a female influencer. Roshni's SSC challenge seems insurmountable but Amavas is right there with a shortcut & his heart on his sleeve. Inspector Mithlesh smells a scam. One tower, one test, one ticking clock. 7 days to Roshni's exam!"
+    - img "Released 2026": "2026"
+    - img "2 seasons"
+    - link "Comedy":
+      - /url: /search?phrase=Comedy&ie=UTF8&ref_=atv_dp_pd_gen
+    - link "Drama":
+      - /url: /search?phrase=Drama&ie=UTF8&ref_=atv_dp_pd_gen
+    - text: "Cast:"
+    - link "Gajraj Rao":
+      - /url: /search?phrase=Gajraj%20Rao&ie=UTF8&ref_=atv_dp_pd_actors
+    - link "Renuka Shahane":
+      - /url: /search?phrase=Renuka%20Shahane&ie=UTF8&ref_=atv_dp_pd_actors
+    - link "Sparsh Shrivastava":
+      - /url: /search?phrase=Sparsh%20Shrivastava&ie=UTF8&ref_=atv_dp_pd_actors
+    - img "Suitable for ages 16+": U/A 16+
+    - img "Subtitles"
+    - img "Audio Description"
+    - button "Season Selector. Season 2 is selected"
+    - tablist:
+      - tab "Episodes" [selected]
+      - tab "Related"
+      - tab "Details"
+    - text: 8 episodes
+    - listitem:
+      - heading "1. AG OG Lo Ji 5G" [level=3]
+      - button "Purchase options"
+      - link "Watch now":
+        - /url: /detail/0ON3Z0ITZ6ND6TVYV535NH0533?autoplay=1&t=0&ref_=atv_dp_btf_el_free_uhd_tv_play_t1ACAAAAAA0wg0
+      - text: The winter winds bring new chaos to Dhadakpur! Roshni struggles with her SSC prep, Bhugol seeks divine intervention to become a hero and Banwari's hopes come crashing down with a 5G mobile tower! Amavas once again arrives with a scheme for Roshni- will she succumb to a short cut? It's 7 days to go for Roshni's exam!
+      - img "Suitable for ages 16+": U/A 16+
+      - img "Subtitles"
+      - text: 43min Oct 1, 2026
+      - button "More ways to watch"
+    - listitem:
+      - heading "2. Gurudakshina" [level=3]
+      - button "Purchase options"
+      - text: Banwari is determined to get the mobile tower up- by hook or by crook. Bhugol picks Roshni to champion her dreams, only to get pulled into a risky scheme. Amavas spirals as he fumbles with a girl who likes him. Mithlesh zeroes in on his next big case. It's 6 days to go for Roshni's exam!
+      - img "Suitable for ages 16+": U/A 16+
+      - img "Subtitles"
+      - text: 40min Oct 1, 2026
+      - link "Join Prime":
+        - /url: /auth-redirect?signin=1&returnUrl=%2Foffers%3Fforce_return_url%3D1%26cGTI%3Damzn1.dv.gti.ea05adb8-b9e1-4481-bf56-e111cbbaafbc%26return_url%3D%252Fdetail%252F0T0DLUIULBXIC5AA56ILSVLOSC%253Fref_%253Datv_dp_sign_suc%26ref_%3Datv_dp_btf_el_tv_signup_prime_bb_t1QAAAAAAA0wg0&ref_=atv_dp_btf_el_tv_signup_prime_bb_t1QAAAAAAA0wg0
+        - text: Subscribe
+    - listitem:
+      - heading "3. Hastakshar" [level=3]
+      - button "Purchase options"
+      - text: Mithlesh's investigation leads him to Pratham Kumar, closing in on the scam. The Jha family's risky efforts finally pay off-and Banwari hands Roshni the precious fees. But just as things seem to fall into place, Pushpalata discovers that the Jha family has stabbed her in the back! It's 5 days to go for Roshni's exam!
+      - img "Suitable for ages 16+": U/A 16+
+      - img "Subtitles"
+      - text: 39min Oct 1, 2026
+      - link "Join Prime":
+        - /url: /auth-redirect?signin=1&returnUrl=%2Foffers%3Fforce_return_url%3D1%26cGTI%3Damzn1.dv.gti.ce235587-441f-43a4-af57-62985b4102a9%26return_url%3D%252Fdetail%252F0RCY5O7UMHK1D8DDMYUCH1Y1T5%253Fref_%253Datv_dp_sign_suc%26ref_%3Datv_dp_btf_el_tv_signup_prime_bb_t1QAAAAAAA0wg0&ref_=atv_dp_btf_el_tv_signup_prime_bb_t1QAAAAAAA0wg0
+        - text: Subscribe
+    - listitem:
+      - heading "4. Khaki Wala Gunda" [level=3]
+      - button "Purchase options"
+      - text: Banwari's tower work sparks a village showdown as Pushpalata leads a dramatic protest. Bhugol senses the tension between Amavas and Roshni isn't just about the exam. Mithlesh uncovers a deeper nexus in the cheating scam. Roshni is set to collect the paper-but chaos erupts at a midnight raid. It's 4 days to go for Roshni's exam!
+      - img "Suitable for ages 16+": U/A 16+
+      - img "Subtitles"
+      - text: 34min Oct 1, 2026
+      - link "Join Prime":
+        - /url: /auth-redirect?signin=1&returnUrl=%2Foffers%3Fforce_return_url%3D1%26cGTI%3Damzn1.dv.gti.0833cf80-3bb2-4385-b9a2-467195c68565%26return_url%3D%252Fdetail%252F0FN3A4C18TQG67V9P09JGMUWDH%253Fref_%253Datv_dp_sign_suc%26ref_%3Datv_dp_btf_el_tv_signup_prime_bb_t1QAAAAAAA0wg0&ref_=atv_dp_btf_el_tv_signup_prime_bb_t1QAAAAAAA0wg0
+        - text: Subscribe
+    - listitem:
+      - heading "5. Prem Tribhuj" [level=3]
+      - button "Purchase options"
+      - text: Mithlesh gets his hands on a crucial clue. Desperate to get the villagers and Pushpalata off his land, Banwari turns to an unlikely ally. Bhugol is convinced there's a love triangle brewing, even as Amavas takes a deadly risk for Roshni. Meanwhile, Mithlesh connects the dots and inches closer. It's 3 days to go for Roshni's exam!
+      - img "Suitable for ages 16+": U/A 16+
+      - img "Subtitles"
+      - text: 36min Oct 1, 2026
+      - link "Join Prime":
+        - /url: /auth-redirect?signin=1&returnUrl=%2Foffers%3Fforce_return_url%3D1%26cGTI%3Damzn1.dv.gti.b3f7f6e9-d4cc-48e0-855c-8c2c360bd793%26return_url%3D%252Fdetail%252F0PT69VNMVVNMA1YCFHQ146CK9F%253Fref_%253Datv_dp_sign_suc%26ref_%3Datv_dp_btf_el_tv_signup_prime_bb_t1QAAAAAAA0wg0&ref_=atv_dp_btf_el_tv_signup_prime_bb_t1QAAAAAAA0wg0
+        - text: Subscribe
+    - listitem:
+      - heading "6. Double Engine" [level=3]
+      - button "Purchase options"
+      - text: Mithlesh recruits Bhugol, Roshni, and Amavas for a risky undercover mission. Bhugol secretly plots his escape to Mumbai. Meanwhile, Pushpalata flips the power game in a dramatic fashion. At Gyan Buniyaad, Roshni is introduced to her "bogie." Just 2 days to go for Roshni's exam!
+      - img "Suitable for ages 16+": U/A 16+
+      - img "Subtitles"
+      - text: 34min Oct 1, 2026
+      - link "Join Prime":
+        - /url: /auth-redirect?signin=1&returnUrl=%2Foffers%3Fforce_return_url%3D1%26cGTI%3Damzn1.dv.gti.e655b8d8-058e-4380-8a91-061e48bb18a4%26return_url%3D%252Fdetail%252F0SSIOW8IPA4N4Y8WKSDLKRNIJO%253Fref_%253Datv_dp_sign_suc%26ref_%3Datv_dp_btf_el_tv_signup_prime_bb_t1QAAAAAAA0wg0&ref_=atv_dp_btf_el_tv_signup_prime_bb_t1QAAAAAAA0wg0
+        - text: Subscribe
+    - listitem:
+      - heading "7. Bloody Beauty" [level=3]
+      - button "Purchase options"
+      - text: Roshni comes face-to-face with Kuber-he humiliates her, but she won't back down. The mission is now colored with revenge. Banwari is arrested; Bhugol breaks, then does the unthinkable to save him. Mithlesh is sidelined. The Dupahiya is found-but completely dismantled. A few hours to go before Roshni's exam!
+      - img "Suitable for ages 16+": U/A 16+
+      - img "Subtitles"
+      - text: 39min Oct 1, 2026
+      - link "Join Prime":
+        - /url: /auth-redirect?signin=1&returnUrl=%2Foffers%3Fforce_return_url%3D1%26cGTI%3Damzn1.dv.gti.e7a5e63b-0c9d-49ed-a67b-6800276c1d5f%26return_url%3D%252Fdetail%252F0SVBG4LM26K0YIPA7N42YM653Z%253Fref_%253Datv_dp_sign_suc%26ref_%3Datv_dp_btf_el_tv_signup_prime_bb_t1QAAAAAAA0wg0&ref_=atv_dp_btf_el_tv_signup_prime_bb_t1QAAAAAAA0wg0
+        - text: Subscribe
+    - listitem:
+      - heading "8. Pareeksha" [level=3]
+      - button "Purchase options"
+      - text: Roshni and Bhugol reach the exam center; Kuber refuses to enter without the Dupahiya. Chaos erupts, but Mithlesh finally gets his hands on the mastermind. Bhugol and Banwari resolve their differences, while Pushpalata's confidence in winning the upcoming election is threatened-just as tension between Roshni and Amavas rises
+      - img "Suitable for ages 16+": U/A 16+
+      - img "Subtitles"
+      - text: 44min Oct 1, 2026
+      - link "Join Prime":
+        - /url: /auth-redirect?signin=1&returnUrl=%2Foffers%3Fforce_return_url%3D1%26cGTI%3Damzn1.dv.gti.1917abfe-9141-4e43-924a-21db834f35cc%26return_url%3D%252Fdetail%252F0GN3715F2EE8IRVIP0XMXT4I4S%253Fref_%253Datv_dp_sign_suc%26ref_%3Datv_dp_btf_el_tv_signup_prime_bb_t1QAAAAAAA0wg0&ref_=atv_dp_btf_el_tv_signup_prime_bb_t1QAAAAAAA0wg0
+        - text: Subscribe
+    - heading "Customers also watched" [level=2]
+    - list:
+      - listitem:
+        - article:
+          - button "Rise And Fall"
+          - link "Rise And Fall":
+            - /url: /detail/0OYIPCU5UZ7KN80DC27G5TSG8T?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_dp_amz_c_TS8274d9_1_1
+          - img "TRENDING"
+      - listitem:
+        - article:
+          - button "Waiting Hai"
+          - link "Waiting Hai":
+            - /url: /detail/0N9MY3FIQAKATNW9JJOILFC6Z7?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_dp_amz_c_TS8274d9_1_2
+          - img "NEW SERIES"
+      - listitem:
+        - article:
+          - button "Drishyam 2 (Hindi)"
+          - link "Drishyam 2 (Hindi)":
+            - /url: /detail/0HNZIYOI76383DKI61QMTROL4K?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_dp_amz_c_TS8274d9_1_3
+          - img "TOP 10"
+      - listitem:
+        - article:
+          - button "Special Branch"
+          - link "Special Branch":
+            - /url: /detail/0S79MBUKRVKWYOR1EUFNQYDNM7?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_dp_amz_c_TS8274d9_1_4
+          - img "NEW SERIES"
+      - listitem:
+        - article:
+          - button "Ishqa Ishqa"
+          - link "Ishqa Ishqa":
+            - /url: /detail/0G7RB9ZEMVMPQIDSCT7KXFS8II?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_dp_amz_c_TS8274d9_1_5
+          - img "NEW EPISODE"
+      - listitem:
+        - article:
+          - 'button "Achinta: Trial By Law (Hindi)"'
+          - 'link "Achinta: Trial By Law (Hindi)"':
+            - /url: /detail/0T1VO7D0HORA0H69PLKXGN84LS?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_dp_amz_c_TS8274d9_1_6
+      - listitem:
+        - article:
+          - button "Clean Up Company"
+          - link "Clean Up Company":
+            - /url: /detail/0GG3232M44BDE60B8R46F4F6RK?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_dp_amz_c_TS8274d9_1_7
+      - listitem:
+        - article:
+          - button "Griha Laxmi"
+          - link "Griha Laxmi":
+            - /url: /detail/0NGW12A0M7FSL830QHN42H99C8?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_dp_amz_c_TS8274d9_1_8
+      - listitem:
+        - article:
+          - button "Sankalp"
+          - link "Sankalp":
+            - /url: /detail/0U3US3Q3XYZ90A4A85Z14KOET8?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_dp_amz_c_TS8274d9_1_9
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+    - text: Dupahiya
+    - link "Comedy":
+      - /url: /search?phrase=Comedy&ie=UTF8&ref_=atv_dp_pd_gen
+    - link "Drama":
+      - /url: /search?phrase=Drama&ie=UTF8&ref_=atv_dp_pd_gen
+    - img "Released 2026": "2026"
+    - img "2 seasons"
+    - img "HDR"
+    - img "UHD"
+    - text: Dhadakpur is back! Banwari's barren land is chosen for a mobile tower-but villagers link everything from typhoid to tsunamis to it. Bhugol is famous now, but only as a female influencer. Roshni's SSC challenge seems insurmountable but Amavas is right there with a shortcut & his heart on his sleeve. Inspector Mithlesh smells a scam. One tower, one test, one ticking clock. 7 days to Roshni's exam! More Creators and Cast
+    - term: Directors
+    - definition:
+      - link "Sonam Nair":
+        - /url: /search?phrase=Sonam%20Nair&ie=UTF8&ref_=atv_dp_pd_dir
+    - term: Producers
+    - definition:
+      - link "Salona Bains Joshi":
+        - /url: /search?phrase=Salona%20Bains%20Joshi&ie=UTF8&ref_=atv_dp_pd_prod
+      - link "Shubh Shivdasani":
+        - /url: /search?phrase=Shubh%20Shivdasani&ie=UTF8&ref_=atv_dp_pd_prod
+    - term: Cast
+    - definition:
+      - link "Gajraj Rao":
+        - /url: /search?phrase=Gajraj%20Rao&ie=UTF8&ref_=atv_dp_pd_actors
+      - link "Renuka Shahane":
+        - /url: /search?phrase=Renuka%20Shahane&ie=UTF8&ref_=atv_dp_pd_actors
+      - link "Sparsh Shrivastava":
+        - /url: /search?phrase=Sparsh%20Shrivastava&ie=UTF8&ref_=atv_dp_pd_actors
+      - link "Bhuvan Arora":
+        - /url: /search?phrase=Bhuvan%20Arora&ie=UTF8&ref_=atv_dp_pd_actors
+      - link "Shivani Raghuvanshi":
+        - /url: /search?phrase=Shivani%20Raghuvanshi&ie=UTF8&ref_=atv_dp_pd_actors
+      - link "Dinesh Lal Yadav (Nirahua)":
+        - /url: /search?phrase=Dinesh%20Lal%20Yadav%20%28Nirahua%29&ie=UTF8&ref_=atv_dp_pd_actors
+      - link "Yashpal Sharma":
+        - /url: /search?phrase=Yashpal%20Sharma&ie=UTF8&ref_=atv_dp_pd_actors
+      - text: More
+    - term: Studio
+    - definition: Amazon Studios
+    - text: Content advisory
+    - img "Suitable for ages 16+": U/A 16+
+    - definition: violencefoul languagetobacco depictionsFlashing lights and strobing patterns might affect photosensitive viewers More
+    - text: Audio languages
+    - img "dolby-51-badge": "5.1"
+    - img "Audio Description"
+    - definition: "हिन्दीहिन्दी [ऑडियो विवरण]हिन्दी Dialogue Boost: Mediumहिन्दी Dialogue Boost: High"
+    - text: Subtitles
+    - img "Subtitles"
+    - definition: Englishहिन्दी [CC]
+    - text: By clicking play, you agree to our
+    - link "Terms of Use":
+      - /url: /dv/tou?ref_=atv_dp_terms
+    - text: .
+    - heading "Feedback" [level=3]
+    - button "Feedback": Send us feedback
+    - heading "Support" [level=3]
+    - link "Get Help":
+      - /url: /help?ref_=atv_dp_fb_need_help
+  - contentinfo:
+    - list:
+      - listitem:
+        - link "Terms and Privacy Notice":
+          - /url: /ww-av-legal-home?ref_=atv_ftr_ter
+      - listitem:
+        - link "Send us feedback":
+          - /url: /contactus?ref_=atv_ftr_cu
+      - listitem:
+        - link "Help":
+          - /url: /help?ref_=atv_ftr_hp
+      - listitem: © 1996-2026, Amazon.com, Inc. or its affiliates

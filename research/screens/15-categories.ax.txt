@@ -1,0 +1,124 @@
+- document:
+  - banner:
+    - navigation "Navigation Bar":
+      - link "Home":
+        - /url: /storefront
+      - link "Home":
+        - /url: /storefront
+      - link "Free to me":
+        - /url: /collection/streamfree
+      - link "Movies":
+        - /url: /movie
+      - link "TV shows":
+        - /url: /tv
+      - link "Live TV":
+        - /url: /livetv
+      - link "Subscriptions":
+        - /url: /addons
+      - button "Search Prime Video"
+      - button "EN"
+      - link "Categories":
+        - /url: /categories
+      - button "Profile, Settings, and Account"
+      - link "Join Prime":
+        - /url: /signup?ref_=atv_nb_join_prime
+  - main:
+    - heading "Categories" [level=1]
+    - heading "Genres" [level=2]
+    - list "Genres":
+      - heading "Action and adventure" [level=3]:
+        - link "Action and adventure":
+          - /url: /genre/action?jic=8%7CEgNhbGw%3D&ref_=atv_ge_all_c_YyAsEb_1_1
+          - img "Action and adventure"
+          - text: Action and adventure
+      - heading "Anime" [level=3]:
+        - link "Anime":
+          - /url: /genre/anime?jic=8%7CEgNhbGw%3D&ref_=atv_ge_all_c_YyAsEb_1_2
+          - img "Anime"
+          - text: Anime
+      - heading "Comedy" [level=3]:
+        - link "Comedy":
+          - /url: /genre/comedy?jic=8%7CEgNhbGw%3D&ref_=atv_ge_all_c_YyAsEb_1_3
+          - img "Comedy"
+          - text: Comedy
+      - heading "Documentary" [level=3]:
+        - link "Documentary":
+          - /url: /genre/documentary?jic=8%7CEgNhbGw%3D&ref_=atv_ge_all_c_YyAsEb_1_4
+          - img "Documentary"
+          - text: Documentary
+      - heading "Drama" [level=3]:
+        - link "Drama":
+          - /url: /genre/drama?jic=8%7CEgNhbGw%3D&ref_=atv_ge_all_c_YyAsEb_1_5
+          - img "Drama"
+          - text: Drama
+      - heading "Fantasy" [level=3]:
+        - link "Fantasy":
+          - /url: /genre/fantasy?jic=8%7CEgNhbGw%3D&ref_=atv_ge_all_c_YyAsEb_1_6
+          - img "Fantasy"
+          - text: Fantasy
+      - heading "Horror" [level=3]:
+        - link "Horror":
+          - /url: /genre/horror?jic=8%7CEgNhbGw%3D&ref_=atv_ge_all_c_YyAsEb_1_7
+          - img "Horror"
+          - text: Horror
+      - heading "Kids" [level=3]:
+        - link "Kids":
+          - /url: /kids?jic=8%7CEgNhbGw%3D&ref_=atv_ge_all_c_YyAsEb_1_8
+          - img "Kids"
+          - text: Kids
+      - heading "Mystery and thrillers" [level=3]:
+        - link "Mystery and thrillers":
+          - /url: /genre/suspense?jic=8%7CEgNhbGw%3D&ref_=atv_ge_all_c_YyAsEb_1_9
+          - img "Mystery and thrillers"
+          - text: Mystery and thrillers
+      - heading "Romance" [level=3]:
+        - link "Romance":
+          - /url: /genre/romance?jic=8%7CEgNhbGw%3D&ref_=atv_ge_all_c_YyAsEb_1_10
+          - img "Romance"
+          - text: Romance
+      - heading "Science fiction" [level=3]:
+        - link "Science fiction":
+          - /url: /genre/science-fiction?jic=8%7CEgNhbGw%3D&ref_=atv_ge_all_c_YyAsEb_1_11
+          - img "Science fiction"
+          - text: Science fiction
+    - heading "Featured collections" [level=2]
+    - list "Featured collections":
+      - heading "Home Premiere" [level=3]:
+        - link "Home Premiere":
+          - /url: /collection/HCE_IN?jic=8%7CEgNhbGw%3D&ref_=atv_ge_all_c_P0vE0y_2_1
+          - img "Home Premiere"
+          - text: Home Premiere
+      - heading "New Releases" [level=3]:
+        - link "New Releases":
+          - /url: /collection/in_new_releases?jic=8%7CEgNhbGw%3D&ref_=atv_ge_all_c_P0vE0y_2_2
+          - img "New Releases"
+          - text: New Releases
+      - heading "MX Player" [level=3]:
+        - link "MX Player":
+          - /url: /collection/miniTV_Merch1?jic=8%7CEgNhbGw%3D&ref_=atv_ge_all_c_P0vE0y_2_3
+          - img "MX Player"
+          - text: MX Player
+      - heading "Critically acclaimed" [level=3]:
+        - link "Critically acclaimed":
+          - /url: /collection/INAwardsandNominations?jic=8%7CEgNhbGw%3D&ref_=atv_ge_all_c_P0vE0y_2_4
+          - img "Critically acclaimed"
+          - text: Critically acclaimed
+      - heading "Kids" [level=3]:
+        - link "Kids":
+          - /url: /kids?jic=8%7CEgNhbGw%3D&ref_=atv_ge_all_c_P0vE0y_2_5
+          - img "Kids"
+          - text: Kids
+  - contentinfo:
+    - list:
+      - listitem:
+        - link "Terms and Privacy Notice":
+          - /url: /ww-av-legal-home?ref_=atv_ftr_ter
+      - listitem:
+        - link "Send us feedback":
+          - /url: /contactus?ref_=atv_ftr_cu
+      - listitem:
+        - link "Help":
+          - /url: /help?ref_=atv_ftr_hp
+      - listitem: © 1996-2026, Amazon.com, Inc. or its affiliates
+  - text: Watch free movies, TV shows, and more
+  - img

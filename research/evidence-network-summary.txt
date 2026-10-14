@@ -1,0 +1,495 @@
+== 10-home-desktop.json  duration=12115ms  completeness=complete  missing=[]  requests=130
+  step scenario_start completed -> https://www.primevideo.com/ 
+  step settle         completed -> https://www.primevideo.com/ 
+  hosts x type:
+      55 image      m.media-amazon.com
+      14 fetch      atv-ps-eu.primevideo.com
+      11 fetch      www.primevideo.com
+       9 ping       unagi-na.amazon.com
+       6 ping       unagi-eu.amazon.com
+       5 font       m.media-amazon.com
+       5 script     m.media-amazon.com
+       3 image      fls-na.amazon.com
+       3 fetch      cloudfront.xp-assets.aiv-cdn.net
+       2 stylesheet m.media-amazon.com
+       2 fetch      global.telemetry.insights.video.a2z.com
+       2 other      m.media-amazon.com
+       2 script     
+       2 fetch      ipv6.unagi-na.amazon.com
+       2 fetch      unagi-eu.amazon.com
+       1 document   www.primevideo.com
+       1 fetch      m.media-amazon.com
+       1 script     cloudfront.xp-assets.aiv-cdn.net
+       1 script     images-na.ssl-images-amazon.com
+       1 fetch      www.amazon.in
+       1 fetch      6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com
+       1 stylesheet cloudfront.xp-assets.aiv-cdn.net
+  document/xhr/fetch/other (normalized):
+      9 POST  ping      200  unagi-na.amazon.com/1/events/com.amazon.eel.katal.metrics.core.nexus
+      7 POST  fetch     200  www.primevideo.com/api/enrichItemMetadata
+      3 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.csa.prod
+      2 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/atvweb-player-config?browser-name,client-id,connection-speed,connection-type,deviceID,deviceTypeID,firmware,format,gascEnabled,nerid,o
+      2 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/xpPlayerconfigs?deviceID,deviceTypeID,firmware,format,gascEnabled,middleware-name,nerid,operating-system-name,version
+      2 GET   fetch     200  atv-ps-eu.primevideo.com/cdp/usage/GetAppStartupConfig?deviceID,deviceTypeID,firmware,format,gascEnabled,nerid,version
+      2 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/GetWeblabTreatment?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,middleware-name,nerid,operating-system-name
+      2 GET   fetch     200  cloudfront.xp-assets.aiv-cdn.net/family/web/ATVWebPlayerSDK-1.0/wave2/ATVWebPlayerSDK.js
+      2 POST  fetch     200  ipv6.unagi-na.amazon.com/1/events/com.amazon.eel.pv.xpplayer.prod
+      2 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.nexusclient.prod
+      2 POST  fetch     200  unagi-eu.amazon.com/1/events/com.amazon.eel.pv.xpplayer.prod
+      2 GET   fetch     200  www.primevideo.com/api/enrichNav?enrichmentType
+      1 POST  fetch     200  6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com/v2/metric-batch
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/AppResiliency?deviceGroup,deviceID,deviceTypeID,territory,testGroups,version
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/WebClient?deviceID,deviceTypeID
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/insights/reportEvent/v1/dvwebnode?attempt,deviceId,deviceTypeId,entries,firmware,gascEnabled
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/Clickstream?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,uxLocale
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/ClientsideImpression?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,uxLocale
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/ReportEvent?deviceId,deviceTypeId,firmware,version
+      1 GET   fetch     200  cloudfront.xp-assets.aiv-cdn.net/family/web/ATVWebPlayerSDK-1.0/wave2/languages/en-GB.json
+      1 GET   fetch     200  global.telemetry.insights.video.a2z.com/Bootstrap/AV20180101
+      1 POST  fetch     200  global.telemetry.insights.video.a2z.com/Events/AV20180101
+      1 GET   fetch     200  m.media-amazon.com/images/G/01/csm/showads.v2.js?adspot_
+      1 GET   other     200  m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon-32x32.png
+      1 GET   other     200  m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon.png
+      1 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.customsg.prod
+      1 GET   fetch     200  www.amazon.in/ax/signin/crossDomainAuthContext
+      1 GET   document  200  www.primevideo.com/
+      1 POST  fetch     200  www.primevideo.com/api/clientHandshake
+      1 POST  fetch     200  www.primevideo.com/auth/guest/register
+  event kinds: {'request': 130, 'response': 130, 'request-finished': 130}
+== 11-home-mobile.json  duration=11491ms  completeness=complete  missing=[]  requests=129
+  step scenario_start completed -> https://www.primevideo.com/ 
+  step settle         completed -> https://www.primevideo.com/ 
+  hosts x type:
+      51 image      m.media-amazon.com
+      23 fetch      www.primevideo.com
+      10 ping       unagi-na.amazon.com
+       9 fetch      atv-ps-eu.primevideo.com
+       6 ping       unagi-eu.amazon.com
+       5 font       m.media-amazon.com
+       5 script     m.media-amazon.com
+       3 image      fls-na.amazon.com
+       2 stylesheet m.media-amazon.com
+       2 fetch      global.telemetry.insights.video.a2z.com
+       2 other      m.media-amazon.com
+       1 document   www.primevideo.com
+       1 fetch      m.media-amazon.com
+       1 script     cloudfront.xp-assets.aiv-cdn.net
+       1 fetch      cloudfront.xp-assets.aiv-cdn.net
+       1 script     images-na.ssl-images-amazon.com
+       1 fetch      www.amazon.in
+       1 fetch      6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com
+       1 script     
+       1 fetch      ipv6.unagi-na.amazon.com
+       1 fetch      unagi-eu.amazon.com
+       1 stylesheet cloudfront.xp-assets.aiv-cdn.net
+  document/xhr/fetch/other (normalized):
+     18 POST  fetch     200  www.primevideo.com/api/enrichItemMetadata
+     10 POST  ping      200  unagi-na.amazon.com/1/events/com.amazon.eel.katal.metrics.core.nexus
+      3 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.csa.prod
+      2 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.nexusclient.prod
+      2 GET   fetch     200  www.primevideo.com/api/enrichNav?enrichmentType
+      1 POST  fetch     200  6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com/v2/metric-batch
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/AppResiliency?deviceGroup,deviceID,deviceTypeID,territory,testGroups,version
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/WebClient?deviceID,deviceTypeID
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/atvweb-player-config?browser-name,client-id,connection-speed,connection-type,deviceID,deviceTypeID,firmware,format,gascEnabled,nerid,o
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/xpPlayerconfigs?deviceID,deviceTypeID,firmware,format,gascEnabled,middleware-name,nerid,operating-system-name,version
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/insights/reportEvent/v1/dvwebnode?attempt,deviceId,deviceTypeId,entries,firmware,gascEnabled
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/Clickstream?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,uxLocale
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/cdp/usage/GetAppStartupConfig?deviceID,deviceTypeID,firmware,format,gascEnabled,nerid,version
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/GetWeblabTreatment?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,middleware-name,nerid,operating-system-name
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/ReportEvent?deviceId,deviceTypeId,firmware,version
+      1 GET   fetch     200  cloudfront.xp-assets.aiv-cdn.net/family/web/ATVWebPlayerSDK-1.0/wave2/ATVWebPlayerSDK.js
+      1 GET   fetch     200  global.telemetry.insights.video.a2z.com/Bootstrap/AV20180101
+      1 POST  fetch     200  global.telemetry.insights.video.a2z.com/Events/AV20180101
+      1 POST  fetch     200  ipv6.unagi-na.amazon.com/1/events/com.amazon.eel.pv.xpplayer.prod
+      1 GET   fetch     200  m.media-amazon.com/images/G/01/csm/showads.v2.js?adspot_
+      1 GET   other     200  m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon-32x32.png
+      1 GET   other     200  m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon.png
+      1 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.customsg.prod
+      1 POST  fetch     200  unagi-eu.amazon.com/1/events/com.amazon.eel.pv.xpplayer.prod
+      1 GET   fetch     200  www.amazon.in/ax/signin/crossDomainAuthContext
+      1 GET   document  200  www.primevideo.com/
+      1 POST  fetch     200  www.primevideo.com/api/clientHandshake
+      1 POST  fetch     200  www.primevideo.com/api/getLandingPage
+      1 POST  fetch     200  www.primevideo.com/auth/guest/register
+  event kinds: {'request': 129, 'response': 129, 'request-finished': 129}
+== 12-detail-desktop.json  duration=11308ms  completeness=incomplete  missing=['events']  requests=115
+  step scenario_start completed -> https://www.primevideo.com/detail/0FVDNWWT5EDB851ATB1KO6D1PV 
+  step settle         completed -> https://www.primevideo.com/detail/0FVDNWWT5EDB851ATB1KO6D1PV 
+  hosts x type:
+      20 image      m.media-amazon.com
+      18 fetch      atv-ps-eu.primevideo.com
+      18 fetch      abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net
+       9 ping       unagi-na.amazon.com
+       6 image      fls-na.amazon.com
+       6 ping       unagi-eu.amazon.com
+       5 script     m.media-amazon.com
+       5 fetch      www.primevideo.com
+       4 font       m.media-amazon.com
+       3 fetch      global.telemetry.insights.video.a2z.com
+       3 fetch      cloudfront.xp-assets.aiv-cdn.net
+       2 stylesheet m.media-amazon.com
+       2 script     
+       2 other      m.media-amazon.com
+       2 fetch      ipv6.unagi-na.amazon.com
+       2 fetch      unagi-eu.amazon.com
+       1 document   www.primevideo.com
+       1 fetch      m.media-amazon.com
+       1 script     cloudfront.xp-assets.aiv-cdn.net
+       1 script     images-na.ssl-images-amazon.com
+       1 fetch      www.amazon.in
+       1 fetch      6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com
+       1 stylesheet cloudfront.xp-assets.aiv-cdn.net
+       1 fetch      cf-trickplay.aux.pv-cdn.net
+  document/xhr/fetch/other (normalized):
+      9 POST  ping      200  unagi-na.amazon.com/1/events/com.amazon.eel.katal.metrics.core.nexus
+      3 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.csa.prod
+      2 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/aa9a/a879/910d/<hex>/audio_init.mp4?amznD
+      2 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/aa9a/a879/910d/<hex>/video_init.mp4?amznD
+      2 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/ddbb/4467/eb92/<hex>/audio_23.mp4?amznDti
+      2 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/ddbb/4467/eb92/<hex>/audio_init.mp4?amznD
+      2 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/ddbb/4467/eb92/<hex>/video_9.mp4?amznDtid
+      2 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/ddbb/4467/eb92/<hex>/video_init.mp4?amznD
+      2 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/atvweb-player-config?browser-name,client-id,connection-speed,connection-type,deviceID,deviceTypeID,firmware,format,gascEnabled,nerid,o
+      2 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/xpPlayerconfigs?deviceID,deviceTypeID,firmware,format,gascEnabled,middleware-name,nerid,operating-system-name,version
+      2 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/insights/reportEvent/v1/dvwebnode?attempt,deviceId,deviceTypeId,entries,firmware,gascEnabled
+      2 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/Clickstream?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,uxLocale
+      2 GET   fetch     200  atv-ps-eu.primevideo.com/cdp/usage/GetAppStartupConfig?deviceID,deviceTypeID,firmware,format,gascEnabled,nerid,version
+      2 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/GetWeblabTreatment?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,middleware-name,nerid,operating-system-name
+      2 GET   fetch     200  cloudfront.xp-assets.aiv-cdn.net/family/web/ATVWebPlayerSDK-1.0/wave2/ATVWebPlayerSDK.js
+      2 POST  fetch     200  global.telemetry.insights.video.a2z.com/Events/AV20180101
+      2 POST  fetch     200  ipv6.unagi-na.amazon.com/1/events/com.amazon.eel.pv.xpplayer.prod
+      2 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.nexusclient.prod
+      2 POST  fetch     200  unagi-eu.amazon.com/1/events/com.amazon.eel.pv.xpplayer.prod
+      2 GET   fetch     200  www.primevideo.com/api/enrichNav?enrichmentType
+      1 POST  fetch     200  6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com/v2/metric-batch
+      1 GET   fetch     200  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/aa9a/a879/910d/<hex>/<hex>_corrected.mpd?
+      1 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/aa9a/a879/910d/<hex>/audio_23.mp4?amznDti
+      1 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/aa9a/a879/910d/<hex>/video_9.mp4?amznDtid
+      1 GET   fetch     200  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/ddbb/4467/eb92/<hex>/<hex>_corrected.mpd?
+      1 GET   fetch     200  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/eaa2/fd8d/b6c3/<hex>/<hex>.mpd?amznDtid,a
+      1 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/ww_bom/1c68/abdc/3758/<hex>/<hex>_video_9.mp4?amznDtid,amznPN,amznPV
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/AppResiliency?deviceGroup,deviceID,deviceTypeID,territory,testGroups,version
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/WebClient?deviceID,deviceTypeID
+      1 GET   fetch     None atv-ps-eu.primevideo.com/cdp/lumina/playerChromeResources/v1?desiredResources,deviceID,deviceTypeID,entityId,excludeProfileLockRestrictions,firmware,gascEnabled,marketplaceID,nerid
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/ReportEvent?deviceId,deviceTypeId,firmware,version
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/playback/drm-vod/GetWidevineLicense?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,nerid,titleId,uxLocale
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/playback/prs/GetVodPlaybackResources?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,nerid,titleId,uxLocale
+      1 GET   fetch     None cf-trickplay.aux.pv-cdn.net/5bfa/671e/76d3/<hex>/<hex>_320w.bif
+      1 GET   fetch     200  cloudfront.xp-assets.aiv-cdn.net/family/web/ATVWebPlayerSDK-1.0/wave2/languages/en-GB.json
+      1 GET   fetch     200  global.telemetry.insights.video.a2z.com/Bootstrap/AV20180101
+      1 GET   fetch     200  m.media-amazon.com/images/G/01/csm/showads.v2.js?adspot_
+      1 GET   other     200  m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon-32x32.png
+      1 GET   other     200  m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon.png
+      1 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.customsg.prod
+      1 GET   fetch     200  www.amazon.in/ax/signin/crossDomainAuthContext
+      1 POST  fetch     200  www.primevideo.com/api/clientHandshake
+      1 GET   fetch     200  www.primevideo.com/api/enrichItemMetadata?currentUrl,journeyIngressContext,metadataToEnrich,titleIDsToEnrich
+      1 POST  fetch     200  www.primevideo.com/auth/guest/register
+      1 GET   document  200  www.primevideo.com/detail/<ID>
+  event kinds: {'request': 115, 'response': 113, 'request-finished': 113, 'request-unfinished': 2}
+== 13-detail-mobile.json  duration=10899ms  completeness=incomplete  missing=['events']  requests=113
+  step scenario_start completed -> https://www.primevideo.com/detail/0FVDNWWT5EDB851ATB1KO6D1PV 
+  step settle         completed -> https://www.primevideo.com/detail/0FVDNWWT5EDB851ATB1KO6D1PV 
+  hosts x type:
+      18 fetch      atv-ps-eu.primevideo.com
+      18 fetch      abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net
+      17 image      m.media-amazon.com
+      10 ping       unagi-na.amazon.com
+       6 image      fls-na.amazon.com
+       6 ping       unagi-eu.amazon.com
+       5 script     m.media-amazon.com
+       5 fetch      www.primevideo.com
+       4 font       m.media-amazon.com
+       3 fetch      global.telemetry.insights.video.a2z.com
+       3 fetch      cloudfront.xp-assets.aiv-cdn.net
+       2 stylesheet m.media-amazon.com
+       2 other      m.media-amazon.com
+       2 script     
+       2 fetch      ipv6.unagi-na.amazon.com
+       2 fetch      unagi-eu.amazon.com
+       1 document   www.primevideo.com
+       1 fetch      m.media-amazon.com
+       1 script     cloudfront.xp-assets.aiv-cdn.net
+       1 script     images-na.ssl-images-amazon.com
+       1 fetch      www.amazon.in
+       1 fetch      6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com
+       1 stylesheet cloudfront.xp-assets.aiv-cdn.net
+       1 fetch      cf-trickplay.aux.pv-cdn.net
+  document/xhr/fetch/other (normalized):
+     10 POST  ping      200  unagi-na.amazon.com/1/events/com.amazon.eel.katal.metrics.core.nexus
+      3 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.csa.prod
+      2 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/aa9a/a879/910d/<hex>/audio_init.mp4?amznD
+      2 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/aa9a/a879/910d/<hex>/video_init.mp4?amznD
+      2 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/ddbb/4467/eb92/<hex>/audio_23.mp4?amznDti
+      2 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/ddbb/4467/eb92/<hex>/audio_init.mp4?amznD
+      2 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/ddbb/4467/eb92/<hex>/video_9.mp4?amznDtid
+      2 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/ddbb/4467/eb92/<hex>/video_init.mp4?amznD
+      2 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/atvweb-player-config?browser-name,client-id,connection-speed,connection-type,deviceID,deviceTypeID,firmware,format,gascEnabled,nerid,o
+      2 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/xpPlayerconfigs?deviceID,deviceTypeID,firmware,format,gascEnabled,middleware-name,nerid,operating-system-name,version
+      2 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/insights/reportEvent/v1/dvwebnode?attempt,deviceId,deviceTypeId,entries,firmware,gascEnabled
+      2 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/Clickstream?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,uxLocale
+      2 GET   fetch     200  atv-ps-eu.primevideo.com/cdp/usage/GetAppStartupConfig?deviceID,deviceTypeID,firmware,format,gascEnabled,nerid,version
+      2 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/GetWeblabTreatment?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,middleware-name,nerid,operating-system-name
+      2 GET   fetch     200  cloudfront.xp-assets.aiv-cdn.net/family/web/ATVWebPlayerSDK-1.0/wave2/ATVWebPlayerSDK.js
+      2 POST  fetch     200  ipv6.unagi-na.amazon.com/1/events/com.amazon.eel.pv.xpplayer.prod
+      2 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.nexusclient.prod
+      2 POST  fetch     200  unagi-eu.amazon.com/1/events/com.amazon.eel.pv.xpplayer.prod
+      2 GET   fetch     200  www.primevideo.com/api/enrichNav?enrichmentType
+      1 POST  fetch     200  6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com/v2/metric-batch
+      1 GET   fetch     200  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/aa9a/a879/910d/<hex>/<hex>_corrected.mpd?
+      1 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/aa9a/a879/910d/<hex>/audio_23.mp4?amznDti
+      1 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/aa9a/a879/910d/<hex>/video_9.mp4?amznDtid
+      1 GET   fetch     200  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/ddbb/4467/eb92/<hex>/<hex>_corrected.mpd?
+      1 GET   fetch     200  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/dm/3$0CigIAhoFZW5fVVMgJTABUgaAwAKB8AN6A4C4F4IBAQGIAQKSAQQKAiFDGAE/ww_bom/eaa2/fd8d/b6c3/<hex>/<hex>.mpd?amznDtid,a
+      1 GET   fetch     206  abdcjfyaaaaaaaamlfhknlskzpyfh.pop-vod-dash.main.amazon.pv-cdn.net/ww_bom/1c68/abdc/3758/<hex>/<hex>_video_9.mp4?amznDtid,amznPN,amznPV
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/AppResiliency?deviceGroup,deviceID,deviceTypeID,territory,testGroups,version
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/WebClient?deviceID,deviceTypeID
+      1 GET   fetch     None atv-ps-eu.primevideo.com/cdp/lumina/playerChromeResources/v1?desiredResources,deviceID,deviceTypeID,entityId,excludeProfileLockRestrictions,firmware,gascEnabled,marketplaceID,nerid
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/ReportEvent?deviceId,deviceTypeId,firmware,version
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/playback/drm-vod/GetWidevineLicense?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,nerid,titleId,uxLocale
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/playback/prs/GetVodPlaybackResources?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,nerid,titleId,uxLocale
+      1 GET   fetch     200  cf-trickplay.aux.pv-cdn.net/5bfa/671e/76d3/<hex>/<hex>_320w.bif
+      1 GET   fetch     200  cloudfront.xp-assets.aiv-cdn.net/family/web/ATVWebPlayerSDK-1.0/wave2/languages/en-GB.json
+      1 GET   fetch     200  global.telemetry.insights.video.a2z.com/Bootstrap/AV20180101
+      1 POST  fetch     200  global.telemetry.insights.video.a2z.com/Events/AV20180101
+      1 POST  fetch     None global.telemetry.insights.video.a2z.com/Events/AV20180101
+      1 GET   fetch     200  m.media-amazon.com/images/G/01/csm/showads.v2.js?adspot_
+      1 GET   other     200  m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon-32x32.png
+      1 GET   other     200  m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon.png
+      1 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.customsg.prod
+      1 GET   fetch     200  www.amazon.in/ax/signin/crossDomainAuthContext
+      1 POST  fetch     200  www.primevideo.com/api/clientHandshake
+      1 GET   fetch     200  www.primevideo.com/api/enrichItemMetadata?currentUrl,journeyIngressContext,metadataToEnrich,titleIDsToEnrich
+      1 POST  fetch     200  www.primevideo.com/auth/guest/register
+      1 GET   document  200  www.primevideo.com/detail/<ID>
+  event kinds: {'request': 113, 'response': 111, 'request-finished': 110, 'request-unfinished': 3}
+== 14-genre-action.json  duration=11280ms  completeness=complete  missing=[]  requests=126
+  step scenario_start completed -> https://www.primevideo.com/genre/action 
+  step settle         completed -> https://www.primevideo.com/genre/action 
+  hosts x type:
+      57 image      m.media-amazon.com
+      12 fetch      www.primevideo.com
+      10 ping       unagi-na.amazon.com
+       9 fetch      atv-ps-eu.primevideo.com
+       6 image      fls-na.amazon.com
+       6 ping       unagi-eu.amazon.com
+       5 script     m.media-amazon.com
+       4 font       m.media-amazon.com
+       2 stylesheet m.media-amazon.com
+       2 fetch      global.telemetry.insights.video.a2z.com
+       2 other      m.media-amazon.com
+       1 document   www.primevideo.com
+       1 fetch      m.media-amazon.com
+       1 script     cloudfront.xp-assets.aiv-cdn.net
+       1 fetch      cloudfront.xp-assets.aiv-cdn.net
+       1 script     images-na.ssl-images-amazon.com
+       1 fetch      www.amazon.in
+       1 fetch      6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com
+       1 script     
+       1 fetch      ipv6.unagi-na.amazon.com
+       1 fetch      unagi-eu.amazon.com
+       1 stylesheet cloudfront.xp-assets.aiv-cdn.net
+  document/xhr/fetch/other (normalized):
+     10 POST  ping      200  unagi-na.amazon.com/1/events/com.amazon.eel.katal.metrics.core.nexus
+      7 POST  fetch     200  www.primevideo.com/api/enrichItemMetadata
+      3 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.csa.prod
+      2 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.nexusclient.prod
+      2 GET   fetch     200  www.primevideo.com/api/enrichNav?enrichmentType
+      1 POST  fetch     200  6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com/v2/metric-batch
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/AppResiliency?deviceGroup,deviceID,deviceTypeID,territory,testGroups,version
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/WebClient?deviceID,deviceTypeID
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/atvweb-player-config?browser-name,client-id,connection-speed,connection-type,deviceID,deviceTypeID,firmware,format,gascEnabled,nerid,o
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/xpPlayerconfigs?deviceID,deviceTypeID,firmware,format,gascEnabled,middleware-name,nerid,operating-system-name,version
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/insights/reportEvent/v1/dvwebnode?attempt,deviceId,deviceTypeId,entries,firmware,gascEnabled
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/Clickstream?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,uxLocale
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/cdp/usage/GetAppStartupConfig?deviceID,deviceTypeID,firmware,format,gascEnabled,nerid,version
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/GetWeblabTreatment?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,middleware-name,nerid,operating-system-name
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/ReportEvent?deviceId,deviceTypeId,firmware,version
+      1 GET   fetch     200  cloudfront.xp-assets.aiv-cdn.net/family/web/ATVWebPlayerSDK-1.0/wave2/ATVWebPlayerSDK.js
+      1 GET   fetch     200  global.telemetry.insights.video.a2z.com/Bootstrap/AV20180101
+      1 POST  fetch     200  global.telemetry.insights.video.a2z.com/Events/AV20180101
+      1 POST  fetch     200  ipv6.unagi-na.amazon.com/1/events/com.amazon.eel.pv.xpplayer.prod
+      1 GET   fetch     200  m.media-amazon.com/images/G/01/csm/showads.v2.js?adspot_
+      1 GET   other     200  m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon-32x32.png
+      1 GET   other     200  m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon.png
+      1 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.customsg.prod
+      1 POST  fetch     200  unagi-eu.amazon.com/1/events/com.amazon.eel.pv.xpplayer.prod
+      1 GET   fetch     200  www.amazon.in/ax/signin/crossDomainAuthContext
+      1 POST  fetch     200  www.primevideo.com/api/clientHandshake
+      1 GET   fetch     200  www.primevideo.com/api/getGenre?actionScheme,decorationScheme,dynamicFeatures,featureScheme,genreId,pageNumber,pageSize,payloadScheme,serviceToken,startIndex,targetId,varia
+      1 POST  fetch     200  www.primevideo.com/auth/guest/register
+      1 GET   document  200  www.primevideo.com/genre/action
+  event kinds: {'request': 126, 'response': 126, 'request-finished': 126}
+== 15-categories.json  duration=9701ms  completeness=complete  missing=[]  requests=72
+  step scenario_start completed -> https://www.primevideo.com/categories 
+  step settle         completed -> https://www.primevideo.com/categories 
+  hosts x type:
+      13 image      m.media-amazon.com
+       9 fetch      atv-ps-eu.primevideo.com
+       9 ping       unagi-na.amazon.com
+       6 image      fls-na.amazon.com
+       6 ping       unagi-eu.amazon.com
+       5 script     m.media-amazon.com
+       4 font       m.media-amazon.com
+       4 fetch      www.primevideo.com
+       2 stylesheet m.media-amazon.com
+       2 other      m.media-amazon.com
+       1 document   www.primevideo.com
+       1 fetch      m.media-amazon.com
+       1 fetch      global.telemetry.insights.video.a2z.com
+       1 script     cloudfront.xp-assets.aiv-cdn.net
+       1 fetch      cloudfront.xp-assets.aiv-cdn.net
+       1 script     images-na.ssl-images-amazon.com
+       1 fetch      6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com
+       1 script     
+       1 fetch      www.amazon.in
+       1 fetch      ipv6.unagi-na.amazon.com
+       1 fetch      unagi-eu.amazon.com
+       1 stylesheet cloudfront.xp-assets.aiv-cdn.net
+  document/xhr/fetch/other (normalized):
+      9 POST  ping      200  unagi-na.amazon.com/1/events/com.amazon.eel.katal.metrics.core.nexus
+      3 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.csa.prod
+      2 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.nexusclient.prod
+      2 GET   fetch     200  www.primevideo.com/api/enrichNav?enrichmentType
+      1 POST  fetch     200  6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com/v2/metric-batch
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/AppResiliency?deviceGroup,deviceID,deviceTypeID,territory,testGroups,version
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/WebClient?deviceID,deviceTypeID
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/atvweb-player-config?browser-name,client-id,connection-speed,connection-type,deviceID,deviceTypeID,firmware,format,gascEnabled,nerid,o
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/xpPlayerconfigs?deviceID,deviceTypeID,firmware,format,gascEnabled,middleware-name,nerid,operating-system-name,version
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/insights/reportEvent/v1/dvwebnode?attempt,deviceId,deviceTypeId,entries,firmware,gascEnabled
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/Clickstream?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,uxLocale
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/cdp/usage/GetAppStartupConfig?deviceID,deviceTypeID,firmware,format,gascEnabled,nerid,version
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/GetWeblabTreatment?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,middleware-name,nerid,operating-system-name
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/ReportEvent?deviceId,deviceTypeId,firmware,version
+      1 GET   fetch     200  cloudfront.xp-assets.aiv-cdn.net/family/web/ATVWebPlayerSDK-1.0/wave2/ATVWebPlayerSDK.js
+      1 GET   fetch     200  global.telemetry.insights.video.a2z.com/Bootstrap/AV20180101
+      1 POST  fetch     200  ipv6.unagi-na.amazon.com/1/events/com.amazon.eel.pv.xpplayer.prod
+      1 GET   fetch     200  m.media-amazon.com/images/G/01/csm/showads.v2.js?adspot_
+      1 GET   other     200  m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon-32x32.png
+      1 GET   other     200  m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon.png
+      1 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.customsg.prod
+      1 POST  fetch     200  unagi-eu.amazon.com/1/events/com.amazon.eel.pv.xpplayer.prod
+      1 GET   fetch     200  www.amazon.in/ax/signin/crossDomainAuthContext
+      1 POST  fetch     200  www.primevideo.com/api/clientHandshake
+      1 POST  fetch     200  www.primevideo.com/auth/guest/register
+      1 GET   document  200  www.primevideo.com/categories
+  event kinds: {'request': 72, 'response': 72, 'request-finished': 72, 'page-error': 1}
+    page-error  "P is not defined"
+== 16-search-flow.json  duration=9904ms  completeness=incomplete  missing=['accessibility', 'action', 'events', 'screenshot', 'url']  requests=121
+  step scenario_start completed -> https://www.primevideo.com/ 
+  step settle         completed -> https://www.primevideo.com/ 
+  step open-search    completed -> https://www.primevideo.com/ 
+  step type-query     failed    -> https://www.primevideo.com/ "locator.fill: Error: strict mode violation: locator('input[type=\\'search\\'], form[action*=\\'/search\\'] input[type=\\'text\\']') resolved to 2 elements:\n    1) <input required=\"\" type=\"search\
+  step typeahead      cancelled -> https://www.primevideo.com/ "not executed after an earlier action failure"
+  step submit         cancelled -> https://www.primevideo.com/ "not executed after an earlier action failure"
+  step results        cancelled -> https://www.primevideo.com/ "not executed after an earlier action failure"
+  hosts x type:
+      54 image      m.media-amazon.com
+      11 fetch      www.primevideo.com
+      11 fetch      atv-ps-eu.primevideo.com
+      10 ping       unagi-na.amazon.com
+       5 font       m.media-amazon.com
+       5 script     m.media-amazon.com
+       5 image      fls-na.amazon.com
+       5 ping       unagi-eu.amazon.com
+       2 stylesheet m.media-amazon.com
+       2 fetch      cloudfront.xp-assets.aiv-cdn.net
+       2 other      m.media-amazon.com
+       2 script     
+       1 document   www.primevideo.com
+       1 fetch      m.media-amazon.com
+       1 fetch      global.telemetry.insights.video.a2z.com
+       1 script     cloudfront.xp-assets.aiv-cdn.net
+       1 script     images-na.ssl-images-amazon.com
+       1 fetch      www.amazon.in
+       1 fetch      6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com
+  document/xhr/fetch/other (normalized):
+     10 POST  ping      200  unagi-na.amazon.com/1/events/com.amazon.eel.katal.metrics.core.nexus
+      7 POST  fetch     200  www.primevideo.com/api/enrichItemMetadata
+      2 POST  fetch     None atv-ps-eu.primevideo.com/cdp/usage/Clickstream?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,uxLocale
+      2 GET   fetch     200  cloudfront.xp-assets.aiv-cdn.net/family/web/ATVWebPlayerSDK-1.0/wave2/ATVWebPlayerSDK.js
+      2 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.csa.prod
+      2 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.nexusclient.prod
+      2 GET   fetch     200  www.primevideo.com/api/enrichNav?enrichmentType
+      1 POST  fetch     200  6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com/v2/metric-batch
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/AppResiliency?deviceGroup,deviceID,deviceTypeID,territory,testGroups,version
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/WebClient?deviceID,deviceTypeID
+      1 GET   fetch     None atv-ps-eu.primevideo.com/acm/GetConfiguration/xpPlayerconfigs?deviceID,deviceTypeID,firmware,format,gascEnabled,middleware-name,nerid,operating-system-name,version
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/insights/reportEvent/v1/dvwebnode?attempt,deviceId,deviceTypeId,entries,firmware,gascEnabled
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/ClientsideImpression?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,uxLocale
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/cdp/usage/GetAppStartupConfig?deviceID,deviceTypeID,firmware,format,gascEnabled,nerid,version
+      1 GET   fetch     None atv-ps-eu.primevideo.com/cdp/usage/GetAppStartupConfig?deviceID,deviceTypeID,firmware,format,gascEnabled,nerid,version
+      1 POST  fetch     None atv-ps-eu.primevideo.com/cdp/usage/GetWeblabTreatment?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,middleware-name,nerid,operating-system-name
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/ReportEvent?deviceId,deviceTypeId,firmware,version
+      1 GET   fetch     200  global.telemetry.insights.video.a2z.com/Bootstrap/AV20180101
+      1 GET   fetch     200  m.media-amazon.com/images/G/01/csm/showads.v2.js?adspot_
+      1 GET   other     200  m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon-32x32.png
+      1 GET   other     200  m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon.png
+      1 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.customsg.prod
+      1 GET   fetch     200  www.amazon.in/ax/signin/crossDomainAuthContext
+      1 GET   document  200  www.primevideo.com/
+      1 POST  fetch     200  www.primevideo.com/api/clientHandshake
+      1 POST  fetch     200  www.primevideo.com/auth/guest/register
+  event kinds: {'request': 121, 'response': 114, 'request-finished': 114, 'request-unfinished': 7}
+== 17-tv.json  duration=13166ms  completeness=incomplete  missing=['events']  requests=124
+  step scenario_start completed -> https://www.primevideo.com/tv 
+  step settle         completed -> https://www.primevideo.com/tv 
+  hosts x type:
+      54 image      m.media-amazon.com
+      11 fetch      www.primevideo.com
+      10 fetch      atv-ps-eu.primevideo.com
+       9 ping       unagi-na.amazon.com
+       6 image      fls-na.amazon.com
+       6 ping       unagi-eu.amazon.com
+       5 font       m.media-amazon.com
+       5 script     m.media-amazon.com
+       2 stylesheet m.media-amazon.com
+       2 fetch      global.telemetry.insights.video.a2z.com
+       2 other      m.media-amazon.com
+       1 document   www.primevideo.com
+       1 fetch      m.media-amazon.com
+       1 script     cloudfront.xp-assets.aiv-cdn.net
+       1 fetch      www.amazon.in
+       1 fetch      cloudfront.xp-assets.aiv-cdn.net
+       1 xhr        unagi-eu.amazon.com
+       1 script     images-na.ssl-images-amazon.com
+       1 script     
+       1 fetch      6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com
+       1 fetch      ipv6.unagi-na.amazon.com
+       1 fetch      unagi-eu.amazon.com
+       1 stylesheet cloudfront.xp-assets.aiv-cdn.net
+  document/xhr/fetch/other (normalized):
+      9 POST  ping      200  unagi-na.amazon.com/1/events/com.amazon.eel.katal.metrics.core.nexus
+      7 POST  fetch     200  www.primevideo.com/api/enrichItemMetadata
+      2 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.csa.prod
+      2 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.nexusclient.prod
+      2 GET   fetch     200  www.primevideo.com/api/enrichNav?enrichmentType
+      1 POST  fetch     200  6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com/v2/metric-batch
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/AppResiliency?deviceGroup,deviceID,deviceTypeID,territory,testGroups,version
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/WebClient?deviceID,deviceTypeID
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/atvweb-player-config?browser-name,client-id,connection-speed,connection-type,deviceID,deviceTypeID,firmware,format,gascEnabled,nerid,o
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/acm/GetConfiguration/xpPlayerconfigs?deviceID,deviceTypeID,firmware,format,gascEnabled,middleware-name,nerid,operating-system-name,version
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/insights/reportEvent/v1/dvwebnode?attempt,deviceId,deviceTypeId,entries,firmware,gascEnabled
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/Clickstream?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,uxLocale
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/ClientsideImpression?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,uxLocale
+      1 GET   fetch     200  atv-ps-eu.primevideo.com/cdp/usage/GetAppStartupConfig?deviceID,deviceTypeID,firmware,format,gascEnabled,nerid,version
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/GetWeblabTreatment?deviceID,deviceTypeID,firmware,gascEnabled,marketplaceID,middleware-name,nerid,operating-system-name
+      1 POST  fetch     200  atv-ps-eu.primevideo.com/cdp/usage/ReportEvent?deviceId,deviceTypeId,firmware,version
+      1 GET   fetch     200  cloudfront.xp-assets.aiv-cdn.net/family/web/ATVWebPlayerSDK-1.0/wave2/ATVWebPlayerSDK.js
+      1 GET   fetch     200  global.telemetry.insights.video.a2z.com/Bootstrap/AV20180101
+      1 POST  fetch     200  global.telemetry.insights.video.a2z.com/Events/AV20180101
+      1 POST  fetch     200  ipv6.unagi-na.amazon.com/1/events/com.amazon.eel.pv.xpplayer.prod
+      1 GET   fetch     200  m.media-amazon.com/images/G/01/csm/showads.v2.js?adspot_
+      1 GET   other     200  m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon-32x32.png
+      1 GET   other     200  m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon.png
+      1 POST  ping      None unagi-eu.amazon.com/1/events/com.amazon.csm.csa.prod
+      1 POST  xhr       200  unagi-eu.amazon.com/1/events/com.amazon.csm.csa.prod
+      1 POST  ping      200  unagi-eu.amazon.com/1/events/com.amazon.csm.customsg.prod
+      1 POST  fetch     200  unagi-eu.amazon.com/1/events/com.amazon.eel.pv.xpplayer.prod
+      1 GET   fetch     200  www.amazon.in/ax/signin/crossDomainAuthContext
+      1 POST  fetch     200  www.primevideo.com/api/clientHandshake
+      1 POST  fetch     200  www.primevideo.com/auth/guest/register
+      1 GET   document  200  www.primevideo.com/tv
+  event kinds: {'request': 124, 'response': 123, 'request-finished': 123, 'page-error': 1, 'request-unfinished': 1}
+    page-error  "P is not defined"

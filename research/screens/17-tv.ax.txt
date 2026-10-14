@@ -1,0 +1,509 @@
+- document:
+  - banner:
+    - navigation "Navigation Bar":
+      - link "Home":
+        - /url: /storefront
+      - link "Home":
+        - /url: /storefront
+      - link "Free to me":
+        - /url: /collection/streamfree
+      - link "Movies":
+        - /url: /movie
+      - link "TV shows":
+        - /url: /tv
+      - link "Live TV":
+        - /url: /livetv
+      - link "Subscriptions":
+        - /url: /addons
+      - button "Search Prime Video"
+      - button "EN"
+      - link "Categories":
+        - /url: /categories
+      - button "Profile, Settings, and Account"
+      - link "Join Prime":
+        - /url: /signup?ref_=atv_nb_join_prime
+  - main:
+    - button "Move back to title number 10"
+    - list:
+      - listitem "Title number 9":
+        - article:
+          - img "Matka King - Season 1"
+          - link "Matka King":
+            - /url: /detail/0NU8T0IBSKNM4URECC0CAKT8GZ?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_tv_hom_c_odJ89I_VYTSo7_1_9
+          - heading "Matka King" [level=2]
+          - text: Spent 9 weeks in Top 10 Season 1・An enterprising cotton trader in Bombay starts an honest gambling game Matka, that turns a pastime for the elite into a symbol of hope for the masses.
+          - link "Join Prime Watch now":
+            - /url: /signup?force_return_url=1&cGTI=amzn1.dv.gti.92b03b2b-b754-48fc-bba7-df4665708c23&return_url=%2Fdetail%2F0NU8T0IBSKNM4URECC0CAKT8GZ%3Fref_%3Datv_tv_hom_c_odJ89I_VYTSo7_1_9_tv_signup_prime_bb_t1QAAAAAAA0wh0&ref_=atv_hm_hom_c_tv_signup_prime_bb_t1QAAAAAAA0wh0
+          - button "Add to Watchlist"
+          - link "More details for Matka King":
+            - /url: /detail/0NU8T0IBSKNM4URECC0CAKT8GZ?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_tv_hom_c_odJ89I_VYTSo7_1_9
+          - text: Watch with a Prime membership
+          - img "This content is rated A": A
+      - listitem "Title number 10":
+        - article:
+          - img "Adarsh Baal Vidyalaya - Season 1"
+          - link "Adarsh Baal Vidyalaya":
+            - /url: /detail/0IR9VI8C4BBY3HMFMTDKFZ5RP5?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_tv_hom_c_odJ89I_eRvPn5_1_10
+          - heading "Adarsh Baal Vidyalaya" [level=2]
+          - text: "#9 TV show in India Season 1・In a dysfunctional government school, a laidback headmaster's dream of a Cambridge trip sparks a chaotic mission to fix a broken system."
+          - button "Episode 1 Watch now for free"
+          - button "Add to Watchlist"
+          - link "More details for Adarsh Baal Vidyalaya":
+            - /url: /detail/0IR9VI8C4BBY3HMFMTDKFZ5RP5?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_tv_hom_c_odJ89I_eRvPn5_1_10
+          - text: First episode free Limited time offer. Terms apply.
+          - img "This content is rated U/A 13+": U/A 13+
+      - listitem "Title number 1":
+        - article:
+          - img "Carrie - Season 1"
+          - link "Carrie":
+            - /url: /detail/0QHLPZ8O1W9VTEDNG03QCGAPI2?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_tv_hom_c_odJ89I_HS85ed33_1_1
+          - heading "Carrie" [level=2]
+          - text: All episodes available Season 1・Based on Stephen King's debut novel, Carrie is a bold reimagining of the classic coming-of-age story, adapted for television by Mike Flanagan.
+          - link "Join Prime Watch now":
+            - /url: /signup?force_return_url=1&cGTI=amzn1.dv.gti.bf6e4509-1830-4d55-9ddb-fa1b6cd3bf9a&return_url=%2Fdetail%2F0QHLPZ8O1W9VTEDNG03QCGAPI2%3Fref_%3Datv_tv_hom_c_odJ89I_HS85ed33_1_1_tv_signup_prime_bb_t1QAAAAAAA0wh0&ref_=atv_hm_hom_c_tv_signup_prime_bb_t1QAAAAAAA0wh0
+          - button "Add to Watchlist"
+          - link "More details for Carrie":
+            - /url: /detail/0QHLPZ8O1W9VTEDNG03QCGAPI2?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_tv_hom_c_odJ89I_HS85ed33_1_1
+          - text: Watch with a Prime membership
+          - img "This content is rated A": A
+      - listitem "Title number 2":
+        - article:
+          - img "CIA - Season 2"
+          - link "CIA":
+            - /url: /detail/0KDA89W4CZS0CS944NNMORLIIT?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_tv_hom_c_odJ89I_HS4697bd_1_2
+          - heading "CIA" [level=2]
+          - text: Season 2・CIA Agent Colin Glass and FBI Special Agent Bill Goodman work together on covert operations.
+          - link "Join Prime Watch now":
+            - /url: /signup?force_return_url=1&cGTI=amzn1.dv.gti.580e94b2-e7f0-4dc4-87d5-be36f98ccc05&return_url=%2Fdetail%2F0KDA89W4CZS0CS944NNMORLIIT%3Fref_%3Datv_tv_hom_c_odJ89I_HS4697bd_1_2_tv_signup_prime_bb_t1QAAAAAAA0wh0&ref_=atv_hm_hom_c_tv_signup_prime_bb_t1QAAAAAAA0wh0
+          - button "Add to Watchlist"
+          - link "More details for CIA":
+            - /url: /detail/0KDA89W4CZS0CS944NNMORLIIT?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_tv_hom_c_odJ89I_HS4697bd_1_2
+          - text: Watch with a Prime membership
+          - img "This content is rated U/A 16+": U/A 16+
+      - listitem "Title number 3":
+        - article:
+          - img "I Would Rather Die - Season 1"
+          - link "I Would Rather Die":
+            - /url: /detail/0HI0OM3L36V388R983H6ORMJA0?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_tv_hom_c_odJ89I_HS97e925_1_3
+          - heading "I Would Rather Die" [level=2]
+          - text: "#4 in horror TV shows Season 1・Ariche, who got bitten by a zombie, must figure out what the hell is happening in order to save his town and himself from fully converting."
+          - link "Join Prime Watch now":
+            - /url: /signup?force_return_url=1&cGTI=amzn1.dv.gti.279adcff-0dd6-43fa-ae8e-7e7181b30618&return_url=%2Fdetail%2F0HI0OM3L36V388R983H6ORMJA0%3Fref_%3Datv_tv_hom_c_odJ89I_HS97e925_1_3_tv_signup_prime_bb_t1QAAAAAAA0wh0&ref_=atv_hm_hom_c_tv_signup_prime_bb_t1QAAAAAAA0wh0
+          - button "Add to Watchlist"
+          - link "More details for I Would Rather Die":
+            - /url: /detail/0HI0OM3L36V388R983H6ORMJA0?jic=16%7CCgNhbGwSA2FsbA%3D%3D&ref_=atv_tv_hom_c_odJ89I_HS97e925_1_3
+          - text: Watch with a Prime membership
+          - img "This content is rated A": A
+    - button "Move forward to title number 2"
+    - heading "TV shows" [level=1]
+    - 'heading "Recently added: Watch for Free" [level=2]'
+    - 'link "Recently added: Watch for Free"':
+      - /url: /collection/miniTV_Merch1?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_dTj1ei_2
+      - text: See more
+    - list:
+      - listitem:
+        - article:
+          - button "Waiting Hai"
+          - link "Waiting Hai":
+            - /url: /detail/0N9MY3FIQAKATNW9JJOILFC6Z7?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_dTj1ei_brws_2_1
+          - img "NEW SERIES"
+      - listitem:
+        - article:
+          - button "Rise And Fall"
+          - link "Rise And Fall":
+            - /url: /detail/0OKCXJFFHTUF41QPHQ8244YTSW?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_dTj1ei_brws_2_2
+          - img "NEW EPISODE"
+      - listitem:
+        - article:
+          - button "Hausla Empowered"
+          - link "Hausla Empowered":
+            - /url: /detail/0NVV0I1NC9LIU3EV8VC4UR041P?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_dTj1ei_brws_2_3
+      - listitem:
+        - article:
+          - button "We Got You Girl"
+          - link "We Got You Girl":
+            - /url: /detail/0ISWMGO4P7GYZ7K4RL3NZD480X?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_dTj1ei_brws_2_4
+      - listitem:
+        - article:
+          - button "Playground"
+          - link "Playground":
+            - /url: /detail/0KGF6JQ3PMC08X00014BNULG1T?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_dTj1ei_brws_2_5
+      - listitem:
+        - article:
+          - 'button "Achinta: Trial By Law (Hindi)"'
+          - 'link "Achinta: Trial By Law (Hindi)"':
+            - /url: /detail/0F7C6BR0YZDL2IZ01OYWJ9FXV7?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_dTj1ei_brws_2_6
+          - img "NEW SEASON"
+      - listitem:
+        - article:
+          - button "Aatank (Hindi)"
+          - link "Aatank (Hindi)":
+            - /url: /detail/0NOX5ORPVIVCA92GX2DKC8PS5N?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_dTj1ei_brws_2_7
+      - listitem:
+        - article:
+          - button "Clean Up Company"
+          - link "Clean Up Company":
+            - /url: /detail/0GG3232M44BDE60B8R46F4F6RK?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_dTj1ei_brws_2_8
+      - listitem:
+        - article:
+          - button "Heartbeats, Pyaar Aur Armaan"
+          - link "Heartbeats, Pyaar Aur Armaan":
+            - /url: /detail/0RTM3CEQ6WUPHVB99HPXAZQ1O3?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_dTj1ei_brws_2_9
+          - img "NEW SEASON"
+      - listitem:
+        - article:
+          - button "Apne Paraye (Hindi)"
+          - link "Apne Paraye (Hindi)":
+            - /url: /detail/0M4Z0CER6JGYI4VR7FGZR7PXFN?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_dTj1ei_brws_2_10
+          - img "NEW SEASON"
+      - listitem:
+        - article:
+          - button "Arafta"
+          - link "Arafta":
+            - /url: /detail/0OYEORFMBIYP3PLKSB7QUTP24Z?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_dTj1ei_brws_2_11
+          - img "NEW EPISODE"
+      - listitem
+      - listitem
+    - 'heading "Dive into heartfelt dramas: Watch for Free" [level=2]'
+    - 'link "Dive into heartfelt dramas: Watch for Free"':
+      - /url: /collection/miniTV_Merch1?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_XGoyhM_3
+      - text: See more
+    - list:
+      - listitem:
+        - article:
+          - button "Kalank (Hindi)"
+          - link "Kalank (Hindi)":
+            - /url: /detail/0JKPZIIS06L2LA49Q246WDU1RB?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_XGoyhM_brws_3_1
+      - listitem:
+        - article:
+          - button "Lappad"
+          - link "Lappad":
+            - /url: /detail/0NFARQJUQ58EHO8U8HXV2720WS?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_XGoyhM_brws_3_2
+      - listitem:
+        - article:
+          - button "Half CA"
+          - link "Half CA":
+            - /url: /detail/0JN0AX6UQ69RZX6TRX47VOB6A4?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_XGoyhM_brws_3_3
+      - listitem:
+        - article:
+          - button "Humkadam"
+          - link "Humkadam":
+            - /url: /detail/0NJ1OKN66OSL24EC7MGPJW5BX5?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_XGoyhM_brws_3_4
+          - img "RECENTLY ADDED"
+      - listitem:
+        - article:
+          - button "18 Years of Taarak Mehta Ka Ooltah Chashmah"
+          - link "18 Years of Taarak Mehta Ka Ooltah Chashmah":
+            - /url: /detail/0S2N2IHW2LM0SYHADQMZA3DUMN?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_XGoyhM_brws_3_5
+      - listitem:
+        - article:
+          - button "Who's Your Gynac"
+          - link "Who's Your Gynac":
+            - /url: /detail/0OE5SBWD00EVFMD6K463KH3AZU?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_XGoyhM_brws_3_6
+      - listitem:
+        - article:
+          - button "Baal Krishna"
+          - link "Baal Krishna":
+            - /url: /detail/0IJ4V64HGS0JNNP0M5V5ERHUH1?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_XGoyhM_brws_3_7
+      - listitem:
+        - article:
+          - button "Rajneeti (Hindi)"
+          - link "Rajneeti (Hindi)":
+            - /url: /detail/0PTWW8644XTSGSD6727DN63PFS?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_XGoyhM_brws_3_8
+      - listitem:
+        - article:
+          - button "Karate Girls"
+          - link "Karate Girls":
+            - /url: /detail/0JLDTOH9RRUU92S1LMO95C5ECG?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_XGoyhM_brws_3_9
+      - listitem:
+        - article:
+          - button "Ishq Ki Dastaan Naagmani"
+          - link "Ishq Ki Dastaan Naagmani":
+            - /url: /detail/0OU6VYT3US7ACRX8VTBLJGTOQV?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_XGoyhM_brws_3_10
+      - listitem:
+        - article:
+          - button "Ashubh Vivaah (Hindi)"
+          - link "Ashubh Vivaah (Hindi)":
+            - /url: /detail/0QUD4DPPH1BIL3MZS2FQIARZ93?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_XGoyhM_brws_3_11
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+    - 'heading "Popular Asian dramas: Watch for Free" [level=2]'
+    - 'link "Popular Asian dramas: Watch for Free"':
+      - /url: /collection/minitv_merch_imported?jic=24%7CCgtmcmVld2l0aGFkcxIDYWxs&ref_=atv_tv_hom_c_eIwgdG_4
+      - text: See more
+    - list:
+      - listitem:
+        - article:
+          - button "I May Love You"
+          - link "I May Love You":
+            - /url: /detail/0HTW8IOJ3TBLQO3ASXBV8TE6XY?jic=24%7CCgtmcmVld2l0aGFkcxIDYWxs&ref_=atv_tv_hom_c_eIwgdG_brws_4_1
+      - listitem:
+        - article:
+          - button "Marry My Husband"
+          - link "Marry My Husband":
+            - /url: /detail/0U9LVA2T8NCPW1W1B51AGU7KCR?jic=24%7CCgtmcmVld2l0aGFkcxIDYWxs&ref_=atv_tv_hom_c_eIwgdG_brws_4_2
+          - img "TRENDING"
+      - listitem:
+        - article:
+          - button "Filter"
+          - link "Filter":
+            - /url: /detail/0KNTZNU3AA9M08VP1WRF3DGWKT?jic=24%7CCgtmcmVld2l0aGFkcxIDYWxs&ref_=atv_tv_hom_c_eIwgdG_brws_4_3
+      - listitem:
+        - article:
+          - button "Love in Trouble"
+          - link "Love in Trouble":
+            - /url: /detail/0KIE4Q8BZ7HS8PVZP6X7TKRL48?jic=24%7CCgtmcmVld2l0aGFkcxIDYWxs&ref_=atv_tv_hom_c_eIwgdG_brws_4_4
+      - listitem:
+        - article:
+          - button "What's Wrong With Secretary Kim"
+          - link "What's Wrong With Secretary Kim":
+            - /url: /detail/0O36ES5QMLGSGQPXHUD3XCNUFU?jic=24%7CCgtmcmVld2l0aGFkcxIDYWxs&ref_=atv_tv_hom_c_eIwgdG_brws_4_5
+      - listitem:
+        - article:
+          - button "Mr. Bad"
+          - link "Mr. Bad":
+            - /url: /detail/0SL0KVO7L5JBX69A80ITJN2TZD?jic=24%7CCgtmcmVld2l0aGFkcxIDYWxs&ref_=atv_tv_hom_c_eIwgdG_brws_4_6
+      - listitem:
+        - article:
+          - button "You Are My Secret"
+          - link "You Are My Secret":
+            - /url: /detail/0T8HE3VT5R91ZZ4QFEUSZPE9CV?jic=24%7CCgtmcmVld2l0aGFkcxIDYWxs&ref_=atv_tv_hom_c_eIwgdG_brws_4_7
+      - listitem:
+        - article:
+          - button "Amidst A Snowstorm Of Love"
+          - link "Amidst A Snowstorm Of Love":
+            - /url: /detail/0GCOAHH4SGFWZ1T92Z0VWXE0PQ?jic=24%7CCgtmcmVld2l0aGFkcxIDYWxs&ref_=atv_tv_hom_c_eIwgdG_brws_4_8
+      - listitem:
+        - article:
+          - button "Time To Fall In Love"
+          - link "Time To Fall In Love":
+            - /url: /detail/0QN2VKOYV4GIE7LQBQ1KB5RZRM?jic=24%7CCgtmcmVld2l0aGFkcxIDYWxs&ref_=atv_tv_hom_c_eIwgdG_brws_4_9
+      - listitem:
+        - article:
+          - button "Lighter & Princess"
+          - link "Lighter & Princess":
+            - /url: /detail/0QQ4P9HCI5DKKJM8KTSBHSP1LP?jic=24%7CCgtmcmVld2l0aGFkcxIDYWxs&ref_=atv_tv_hom_c_eIwgdG_brws_4_10
+      - listitem:
+        - article:
+          - button "Hear Me"
+          - link "Hear Me":
+            - /url: /detail/0MDPC8ZRVMQWEOSC5K7SJVHP0P?jic=24%7CCgtmcmVld2l0aGFkcxIDYWxs&ref_=atv_tv_hom_c_eIwgdG_brws_4_11
+      - listitem:
+        - article:
+          - button "Doom At Your Service"
+          - link "Doom At Your Service":
+            - /url: /detail/0NDR7URXTU3SMZ5TC4CY39U20V?jic=24%7CCgtmcmVld2l0aGFkcxIDYWxs&ref_=atv_tv_hom_c_eIwgdG_brws_4_12
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+    - 'heading "Latest Action Mysteries: Watch for Free" [level=2]'
+    - list:
+      - listitem:
+        - article:
+          - button "Ishqa Ishqa"
+          - link "Ishqa Ishqa":
+            - /url: /detail/0G7RB9ZEMVMPQIDSCT7KXFS8II?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_E7uTw3_brws_5_1
+          - img "NEW EPISODE"
+      - listitem:
+        - article:
+          - button "Apne Paraye (Hindi)"
+          - link "Apne Paraye (Hindi)":
+            - /url: /detail/0M4Z0CER6JGYI4VR7FGZR7PXFN?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_E7uTw3_brws_5_2
+          - img "NEW SEASON"
+      - listitem:
+        - article:
+          - button "Crime Files"
+          - link "Crime Files":
+            - /url: /detail/0NZLNCERN91LHNMGW6VSQZISU3?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_E7uTw3_brws_5_3
+      - listitem:
+        - article:
+          - button "Legend of Exorcism"
+          - link "Legend of Exorcism":
+            - /url: /detail/0KV8L09PYAT3T7E239SQ351QOH?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_E7uTw3_brws_5_4
+          - img "RECENTLY ADDED"
+      - listitem:
+        - article:
+          - button "Crime Alert"
+          - link "Crime Alert":
+            - /url: /detail/0NKOXINS3N2KZWGZJ3UWVY601V?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_E7uTw3_brws_5_5
+      - listitem:
+        - article:
+          - button "Bullets"
+          - link "Bullets":
+            - /url: /detail/0N3EI2VM2IFFLA0L83CU3JVM6Y?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_E7uTw3_brws_5_6
+          - img "RECENTLY ADDED"
+      - listitem:
+        - article:
+          - button "Special Branch"
+          - link "Special Branch":
+            - /url: /detail/0S79MBUKRVKWYOR1EUFNQYDNM7?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_E7uTw3_brws_5_7
+          - img "NEW SERIES"
+    - heading "Latest TV" [level=2]
+    - link "Latest TV":
+      - /url: /browse?serviceToken=v0_Cl0KJDhjNGE3MWI0LTljNmQtNDNjYi05OWY1LTIxNjk3NGFhZjE3ORCgooLjkzQaLGpzRGowUWwwenJXQllEVHlIcThQbkRxbUc3ZnJKaTM1cnh6RXpERXppckk9IAESBXF1ZXJ5GAEqB2RlZmF1bHQyBmNlbnRlcjoGc2VhcmNoUglEQ2JXQkVzbXJ6AIIBtAMSKjE6MTNFRlRQQTRETEE4NzEjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTRr0AnFzLW9mZmVyX3R5cGU9NSZwdl9vZmZlcnM9SU46SU46Ojp2b2Q6LTE3OTIwMTQwMDA6MTc5MjAxNDAwMC0mcXMtY291bnRyeS1jb2RlPUlOJmluZGV4PWV1LWFtYXpvbi12aWRlby1vdGhlciZwX25fZW50aXR5X3R5cGU9VFYgU2hvdyZhZHVsdC1wcm9kdWN0PTAmc2VhcmNoLWFsaWFzPWluc3RhbnQtdmlkZW8mYnE9KGFuZCAoYW5kIGFtYXpvbl92aWRlb19zdGFydF9kYXRlOic2MHgtMHknIChhbmQgcHVibGljX3JlbGVhc2VfZGF0ZTonMzY1eC0weCcpKSAobm90IGVudGl0eV90eXBlOidQcm9tb3Rpb258VHJhaWxlcnxCb251cyBDb250ZW50JykpJnB2X2Jyb3dzZV9pbnRlcm5hbF9vZmZlcj1hbGwmcHZfYnJvd3NlX2ludGVybmFsX2xhbmd1YWdlPWFsbCIJTGF0ZXN0IFRWMABQAHAA&jic=8%7CEgNhbGw%3D&ref_=atv_tv_hom_c_dcbwbe_6_smr
+      - text: See more
+    - list:
+      - listitem:
+        - article:
+          - button "Jujutsu Kaisen"
+          - link "Jujutsu Kaisen":
+            - /url: /detail/0SD5BREZJXN1WL20707Z6YQ6P8?jic=8%7CEgNhbGw%3D&ref_=atv_tv_hom_c_DCbWBE_brws_6_1
+      - listitem:
+        - article:
+          - button "Battleground"
+          - link "Battleground":
+            - /url: /detail/0N8XQSVV3G7ZI8TDSAGQE3A03I?jic=8%7CEgNhbGw%3D&ref_=atv_tv_hom_c_DCbWBE_brws_6_2
+      - listitem:
+        - article:
+          - button "Hausla Empowered"
+          - link "Hausla Empowered":
+            - /url: /detail/0NVV0I1NC9LIU3EV8VC4UR041P?jic=8%7CEgNhbGw%3D&ref_=atv_tv_hom_c_DCbWBE_brws_6_3
+      - listitem:
+        - article:
+          - button "We Got You Girl"
+          - link "We Got You Girl":
+            - /url: /detail/0ISWMGO4P7GYZ7K4RL3NZD480X?jic=8%7CEgNhbGw%3D&ref_=atv_tv_hom_c_DCbWBE_brws_6_4
+      - listitem:
+        - article:
+          - button "Playground"
+          - link "Playground":
+            - /url: /detail/0KGF6JQ3PMC08X00014BNULG1T?jic=8%7CEgNhbGw%3D&ref_=atv_tv_hom_c_DCbWBE_brws_6_5
+      - listitem:
+        - article:
+          - 'button "Achinta: Trial By Law (Hindi)"'
+          - 'link "Achinta: Trial By Law (Hindi)"':
+            - /url: /detail/0F7C6BR0YZDL2IZ01OYWJ9FXV7?jic=8%7CEgNhbGw%3D&ref_=atv_tv_hom_c_DCbWBE_brws_6_6
+      - listitem:
+        - article:
+          - button "Aatank (Hindi)"
+          - link "Aatank (Hindi)":
+            - /url: /detail/0NOX5ORPVIVCA92GX2DKC8PS5N?jic=8%7CEgNhbGw%3D&ref_=atv_tv_hom_c_DCbWBE_brws_6_7
+      - listitem:
+        - article:
+          - button "Clean Up Company"
+          - link "Clean Up Company":
+            - /url: /detail/0GG3232M44BDE60B8R46F4F6RK?jic=8%7CEgNhbGw%3D&ref_=atv_tv_hom_c_DCbWBE_brws_6_8
+      - listitem:
+        - article:
+          - button "Heartbeats, Pyaar Aur Armaan"
+          - link "Heartbeats, Pyaar Aur Armaan":
+            - /url: /detail/0RTM3CEQ6WUPHVB99HPXAZQ1O3?jic=8%7CEgNhbGw%3D&ref_=atv_tv_hom_c_DCbWBE_brws_6_9
+      - listitem:
+        - article:
+          - button "Apne Paraye (Hindi)"
+          - link "Apne Paraye (Hindi)":
+            - /url: /detail/0M4Z0CER6JGYI4VR7FGZR7PXFN?jic=8%7CEgNhbGw%3D&ref_=atv_tv_hom_c_DCbWBE_brws_6_10
+      - listitem:
+        - article:
+          - button "Arafta"
+          - link "Arafta":
+            - /url: /detail/0OYEORFMBIYP3PLKSB7QUTP24Z?jic=8%7CEgNhbGw%3D&ref_=atv_tv_hom_c_DCbWBE_brws_6_11
+          - img "TRENDING"
+      - listitem:
+        - article:
+          - button "Special Branch"
+          - link "Special Branch":
+            - /url: /detail/0S79MBUKRVKWYOR1EUFNQYDNM7?jic=8%7CEgNhbGw%3D&ref_=atv_tv_hom_c_DCbWBE_brws_6_12
+      - listitem
+      - listitem
+      - listitem
+    - heading "Romantic Shows" [level=2]
+    - list:
+      - listitem:
+        - article:
+          - button "Heartbeats, Pyaar Aur Armaan"
+          - link "Heartbeats, Pyaar Aur Armaan":
+            - /url: /detail/0RTM3CEQ6WUPHVB99HPXAZQ1O3?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_8UQnra_brws_7_1
+          - img "NEW SEASON"
+      - listitem:
+        - article:
+          - button "Love & Affairs"
+          - link "Love & Affairs":
+            - /url: /detail/0QKLD836Z010OB3TZ9JI9E969A?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_8UQnra_brws_7_2
+      - listitem:
+        - article:
+          - button "Manbhanjan"
+          - link "Manbhanjan":
+            - /url: /detail/0NOTLU2ZVAD3T3LJW5NN6W3LI9?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_8UQnra_brws_7_3
+      - listitem:
+        - article:
+          - button "Srikanta"
+          - link "Srikanta":
+            - /url: /detail/0I7JLA17ZXRLH4CKU6VWCP3MPI?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_8UQnra_brws_7_4
+      - listitem:
+        - article:
+          - button "Ishq Express (Telugu)"
+          - link "Ishq Express (Telugu)":
+            - /url: /detail/0G8FDL6BC1NF0CCZ6BU4637HFE?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_8UQnra_brws_7_5
+      - listitem:
+        - article:
+          - button "Ishq Express (Tamil)"
+          - link "Ishq Express (Tamil)":
+            - /url: /detail/0P1P7US39TMJUJ06I622CIV6RJ?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_8UQnra_brws_7_6
+      - listitem:
+        - article:
+          - button "Talma Ke Romeo Juliet"
+          - link "Talma Ke Romeo Juliet":
+            - /url: /detail/0J5A22RONZ3HYPYMHJU7XVCDC7?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_8UQnra_brws_7_7
+      - listitem:
+        - article:
+          - button "Datebaazi"
+          - link "Datebaazi":
+            - /url: /detail/0POY9JC7XO327LZCYA6WRXVY8S?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_8UQnra_brws_7_8
+      - listitem:
+        - article:
+          - button "Breakup Story"
+          - link "Breakup Story":
+            - /url: /detail/0FAI4850TLD23YOVPDZ8ULWY31?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_8UQnra_brws_7_9
+      - listitem:
+        - article:
+          - button "Romil And Jugal"
+          - link "Romil And Jugal":
+            - /url: /detail/0HQO25MYU9068FXHCCA3TFR46I?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_8UQnra_brws_7_10
+      - listitem:
+        - article:
+          - button "Daastan-E-Love"
+          - link "Daastan-E-Love":
+            - /url: /detail/0KIUI8WIVVMMPYGEHHDOWIFITI?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_8UQnra_brws_7_11
+      - listitem:
+        - article:
+          - button "Daastan-E-Love"
+          - link "Daastan-E-Love":
+            - /url: /detail/0HDVFEIUQNTAWLQ37C7P6O2U7R?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_tv_hom_c_8UQnra_brws_7_12
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+      - listitem
+    - link "Load more videos":
+      - /url: /tv?startIndex=7&ref_=atv_hm_nxt_2&targetId=V2%3D4AEA6u69gYPeuYe-toZwYWdlSWSIcGFnZVR5cGWMY29sbGVjdGlvbklkiHdpZGdldElkjo5zd2lmdElkVmVyc2lvbt6SioRob21li4J0dowPjQ-OglYy&serviceToken=v0_Cl0KJDhjNGE3MWI0LTljNmQtNDNjYi05OWY1LTIxNjk3NGFhZjE3ORCgooLjkzQaLGpzRGowUWwwenJXQllEVHlIcThQbkRxbUc3ZnJKaTM1cnh6RXpERXppckk9IAESBXZwYWdlGAAyBmNlbnRlckAySiQ2OTk1YjMyMC1jYjRkLTRhYmEtOTk1Mi1jZmNmZmU0MGNhNzhSAGpWeyJyc2lwU3RhdGVJZCI6IlJTSVAwMTc2MGEwYzFiOGRiZDU3NzhiMGJkMjUwOGNlZjllZjEwZTc4OWZhZmU3ZWZiODliZTMzZjg1YzdjMzBiNjgxIn16_AcKxAVINHNJQUFBQUFBQUEveldTU2JhbElCQkU1MjlTZnlsMEp2Qm50S0pQeFJiQi9TK2tUZ2sxdlNjaWtpRHo4NE4vTWJVRVBVU3hSNk1ZUHY4SU5tRGlwYURjejV3ckdaZ21CNGVzcFZrcmtRcU5PT2hzaTBPVnNBdmw3RzNQQTUxZlFwMC9WOFhzcEFUSFZlTWVtcTZIZzVaTHF1UTJaMyt3YUpmam9KOC8rQmQvNXpWZXpGdlBqbGdsR2JQZzBrTDNOTEJtOGs4SWhpU3huZWp6UTM2anhvd3IzbW5za2FpajZIcE5aNWdPenFTNHE0WUJjUVJ6WU1xSVYwTWdzNGlmM2psNUhsVURSbkVtR1NJU1ZDVWRScTV6bkdra1NKMisrOXZIa2tjZzNWNDFUam5aQ2FlZFpiSzVRSHJCUVZxdStWdHJVS1ZIK2pxeFM3VVcyV3dHdkdWZjlxV1JqTm1RaHRsZk9vZlhCR3VBd1hodnljVnFMaElHSVdjUms2STFKd0pKTUNBSXNmZzFkWk9ET0QzTDArK2tGZGNPc05RS0d3eHRNekY0VGVBWnZadGJCVXFNdGNZb0s3c1dUQVNpV0RPTkFkNWdyQXIrWHNhZGk2b3JwLzJ5Uk5obFA1NkhheWJMUFFqa0JUWCtOVDNVMGE3Y2NwN3RXTC92T3k2dUg3ZmJTOTFlRTI1Vmt2UWlwdzVhRE9QTUdBb2dkSTNCZkNtRG1UZ0VtdHRQU09VRkFPS1UxNnNnYVpqbjJlZzRqcjdVVVlyMHQ4MHUwTFRTZHNpWWRxbVF1YnR6ZVlQblE5L2RlR1p0eS9tQ0ZLWkJPMTNZYmR1KzVUNTBVK3lIZFRqRks5RnFvUnZyVDU2cHJ3M281dXloUmR6RTFzN3ZxKzUxWHR5WVRwci9udzFjdUJkeHh5ei9CUy9WZ0pwNkF3QUEiAQAqJjE6MTNEMjBaMkE0WkIwT0gjI05CU1hFMzJETUZaRzY1TFRNVldBKioxOjExQzZDT1VBNllXWk1YIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjE6MTFJNEIyUzc2WEI5Q1AjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMToxMTlBMEoxSEJYRFlFMCMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioxOjExNFUwWFhGREc3SDNNIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjE6MTNFRlRQQTRETEE4NzEjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMToxMUVaM1ZVWjc2QjlOViMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNMAeCAQYwAFAAcAA%3D&pageSize=14&page=2
+      - text: See more
+  - contentinfo:
+    - list:
+      - listitem:
+        - link "Terms and Privacy Notice":
+          - /url: /ww-av-legal-home?ref_=atv_ftr_ter
+      - listitem:
+        - link "Send us feedback":
+          - /url: /contactus?ref_=atv_ftr_cu
+      - listitem:
+        - link "Help":
+          - /url: /help?ref_=atv_ftr_hp
+      - listitem: © 1996-2026, Amazon.com, Inc. or its affiliates
+  - text: Watch free movies, TV shows, and more
+  - img
