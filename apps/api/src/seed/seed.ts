@@ -10,6 +10,7 @@ import { TitleSchema } from '../schemas/title.schema.js';
 import { COLLECTIONS, TITLES } from './data.js';
 
 const uri = process.env.MONGODB_URI ?? 'mongodb://127.0.0.1:27017/kinora';
+const dbName = process.env.MONGODB_DB ?? 'kinora';
 
 const DEMO_ACCOUNTS = [
   { email: 'demo@kinora.test', password: 'kinora-demo', plan: 'basic' as const,
@@ -19,7 +20,7 @@ const DEMO_ACCOUNTS = [
 ];
 
 async function main() {
-  await mongoose.connect(uri);
+  await mongoose.connect(uri, { dbName });
   const Title = mongoose.model('Title', TitleSchema);
   const Collection = mongoose.model('Collection', CollectionSchema);
   const Account = mongoose.model('Account', AccountSchema);
@@ -53,7 +54,7 @@ async function main() {
     await Profile.insertMany(demo.profiles.map((p) => ({ ...p, accountId: account._id })));
   }
 
-  console.log(`Seeded ${TITLES.length} titles, ${COLLECTIONS.length} collections, ${DEMO_ACCOUNTS.length} demo accounts into ${uri}`);
+  console.log(`Seeded ${TITLES.length} titles, ${COLLECTIONS.length} collections, ${DEMO_ACCOUNTS.length} demo accounts into database "${dbName}" at ${uri.replace(/\/\/[^@]*@/, '//***@')}`);
   for (const d of DEMO_ACCOUNTS) console.log(`  ${d.email} / ${d.password}  (${d.plan})`);
   await mongoose.disconnect();
 }

@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+node_modules
+dist
+*.tsbuildinfo
+coverage
+.agents
+.claude
+skills-lock.json

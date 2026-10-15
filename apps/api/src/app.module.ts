@@ -22,6 +22,8 @@ class HealthController {
       inject: [ConfigService],
       useFactory: (config: ConfigService) => ({
         uri: config.get<string>('MONGODB_URI', 'mongodb://127.0.0.1:27017/kinora'),
+        // Hosted URIs (e.g. Atlas via Vercel) often carry no database name; pick one explicitly.
+        dbName: config.get<string>('MONGODB_DB', 'kinora'),
       }),
     }),
     AuthModule,
