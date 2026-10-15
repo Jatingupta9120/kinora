@@ -10,4 +10,9 @@ async function bootstrap() {
   app.enableShutdownHooks();
   await app.listen(process.env.PORT ?? 4000);
 }
-await bootstrap();
+// No top-level await: Vercel's launcher waits for this module to finish loading before it
+// serves, so awaiting listen() here would deadlock the function at startup.
+bootstrap().catch((err: unknown) => {
+  console.error('Failed to start Kinora API', err);
+  process.exit(1);
+});
