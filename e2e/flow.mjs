@@ -105,7 +105,8 @@ try {
     await page.goto(`${WEB}/title/iron-meridian`);
     await expectVisible(visible(page.getByRole('link', { name: 'Get Premium to watch' })));
     await visible(page.getByRole('button', { name: 'Add to watchlist' })).click();
-    await expectVisible(visible(page.getByRole('button', { name: 'Remove from watchlist' })));
+    // The button shows the optimistic state at once and stays disabled until the save completes.
+    await expectVisible(visible(page.getByRole('button', { name: 'Remove from watchlist', disabled: false })));
     await page.goto(`${WEB}/watchlist`);
     await expectVisible(visible(page.getByRole('link', { name: /Iron Meridian/ })));
   });
