@@ -24,6 +24,10 @@ class HealthController {
         uri: config.get<string>('MONGODB_URI', 'mongodb://127.0.0.1:27017/kinora'),
         // Hosted URIs (e.g. Atlas via Vercel) often carry no database name; pick one explicitly.
         dbName: config.get<string>('MONGODB_DB', 'kinora'),
+        // Serverless: fail fast with a logged error instead of retrying past the platform's startup limit.
+        serverSelectionTimeoutMS: 8_000,
+        retryAttempts: 2,
+        retryDelay: 1_000,
       }),
     }),
     AuthModule,
